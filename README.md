@@ -30,9 +30,9 @@ Make sure you have the following installed on your system:
 
 ### Run with Docker
 
-# Build and run using docker-compose
-  ```bash
-  docker-compose up --build
+1. **Build and run using docker-compose**
+   ```bash
+   docker-compose up --build
 
 ## 🌍 Access the app here
 [Visit the live site here](http://ec2-13-201-77-129.ap-south-1.compute.amazonaws.com:3000/)
