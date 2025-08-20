@@ -20,12 +20,16 @@ Make sure you have the following installed on your system:
    git clone https://github.com/your-username/Simple-Todo_App-with-Node-express.js-MongoDB-and-docker.git
    cd Simple-Todo_App-with-Node-express.js-MongoDB-and-docker
 
-# Install dependencies
-npm install
+2. **Install dependencies**
+   ```bash
+   npm install
 
-# Start the app
-npm start
+3. **Start the app**
+   ```bash
+   npm start
 
 ### Run with Docker
+
 # Build and run using docker-compose
+```bash
 docker-compose up --build
